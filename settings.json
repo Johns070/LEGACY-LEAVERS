@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "VESHAM_OP.aternos.me",
-    "port": 20824,
+    "port": "20824",
     "version": "26.1.2",
     "try-creative": false
   },
